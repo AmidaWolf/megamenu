@@ -1,0 +1,157 @@
+.megamenu {
+    display: block;
+}
+
+.categories {
+    position: sticky;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    margin: 0;
+
+    padding-top: 5px;
+    padding-left: 0;
+
+    list-style: none;
+}
+
+.categories__link {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+
+    padding-left: 15px;
+    padding-right: 15px;
+
+    font-size: 16px;
+    color: #9f9f9f;
+    text-decoration: none;
+    white-space: nowrap;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.categories__link:hover {
+    text-decoration: underline;
+    color: #446ab3;
+}
+
+.categories__item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    box-sizing: border-box;
+}
+
+.categories__item:hover .subcategory-wrapper,
+.categories__item:active .subcategory-wrapper
+{
+    display: block;
+    column-count: 4;
+}
+
+.categories__icon {
+    width: 24px;
+    height: 24px;
+
+    padding-right: 10px;
+}
+
+.categories__link-chevron {
+    width: 9px;
+    height: 15px;
+
+    margin-left: auto;
+
+    padding-left: 10px;
+}
+
+.subcategory-wrapper {
+    display: none;
+    overflow: hidden;
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 100%;
+    top: 0;
+
+    z-index: 10;
+
+    min-height: 200px;
+
+    background-color: #ffffff;
+
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+.subcategories-wrapper {
+    margin: 0;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    break-inside: avoid;
+}
+
+.subcategories {
+    padding: 10px 15px 15px 15px;
+
+    list-style: none;
+}
+
+.subcategories__title-link {
+    text-decoration: none;
+    color: #9f9f9f;
+}
+
+.subcategories__title-link:hover {
+    text-decoration: underline;
+    color: #446ab3;
+}
+
+.subcategories__title {
+    margin: 0;
+
+    padding-bottom: 5px;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    white-space: nowrap;
+}
+
+.subcategories__item {
+    padding-top: 5px;
+    padding-bottom:  5px;
+}
+
+.subcategories__item-link {
+    text-decoration: none;
+    color: #9f9f9f;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.subcategories__item-link:hover {
+    text-decoration: underline;
+    color: #446ab3;
+}
+
+
+/*576-767.98*/
+@media (max-width: 767.98px) {
+    .megamenu {
+
+    }
+
+    .categories {
+
+    }
+}
+
+/*<575.98*/
+@media (max-width: 575.98px) {
+
+}
