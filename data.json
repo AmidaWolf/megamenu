@@ -1,1116 +1,1116 @@
 {
-   "categories":[
-      {
-         "name":"Category1",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
+  "categories": [
+    {
+      "name": "Category1",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
             {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory1",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory2",
+              "href": "#"
             },
             {
-               "name":"Subcategory3",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory4",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory5",
-               "href": "#",
-               "subsubcategories":[]
-            },
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory3",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory4",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory5",
-               "href": "#",
-               "subsubcategories":[]
-            },
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory3",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory4",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory5",
-               "href": "#",
-               "subsubcategories":[]
-            },
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory3",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory4",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory5",
-               "href": "#",
-               "subsubcategories":[]
-            },
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory3",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory4",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  }
-               ]
-            },
-            {
-               "name":"Subcategory5",
-               "href": "#",
-               "subsubcategories":[]
+              "name": "Sub-subcategory3",
+              "href": "#"
             }
-         ]
-      },
-      {
-         "name":"Category2",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
             {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory1",
+              "href": "#"
             }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
+          ]
+        },
+        {
+          "name": "Subcategory3",
+          "href": "#",
+          "subsubcategories": [
             {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory1",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory2",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory3",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory4",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory5",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory6",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory7",
+              "href": "#"
             }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
+          ]
+        },
+        {
+          "name": "Subcategory4",
+          "href": "#",
+          "subsubcategories": [
             {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory1",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory2",
+              "href": "#"
             }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
+          ]
+        },
+        {
+          "name": "Subcategory5",
+          "href": "#",
+          "subsubcategories": []
+        },
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
             {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory1",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory2",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory3",
+              "href": "#"
             }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
             {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory1",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory3",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Category3",
-         "href": "#",
-         "startIcon": "big-cogwheel.svg",
-         "endIcon": "right-chevron.svg",
-         "img": "https://via.placeholder.com/100",
-         "subcategories":[
-            {
-               "name":"Subcategory1",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory2",
+              "href": "#"
             },
             {
-               "name":"Subcategory2",
-               "href": "#",
-               "subsubcategories":[
-                  {
-                     "name": "Sub-subcategory1",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory2",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory3",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory4",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory5",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory6",
-                     "href": "#"
-                  },
-                  {
-                     "name": "Sub-subcategory7",
-                     "href": "#"
-                  }
-               ]
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
             }
-         ]
-      }
-   ]
+          ]
+        },
+        {
+          "name": "Subcategory4",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory5",
+          "href": "#",
+          "subsubcategories": []
+        },
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory3",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory4",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory5",
+          "href": "#",
+          "subsubcategories": []
+        },
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory3",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory4",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory5",
+          "href": "#",
+          "subsubcategories": []
+        },
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory3",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory4",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory5",
+          "href": "#",
+          "subsubcategories": []
+        }
+      ]
+    },
+    {
+      "name": "Category2",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category3",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category4 with long name",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category5_with_long_word",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category6",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category7",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category8",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category9",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category10",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category11",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category12",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category13",
+      "href": "#",
+      "startIcon": "big-cogwheel.svg",
+      "endIcon": "right-chevron.svg",
+      "img": "https://via.placeholder.com/100",
+      "subcategories": [
+        {
+          "name": "Subcategory1",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            }
+          ]
+        },
+        {
+          "name": "Subcategory2",
+          "href": "#",
+          "subsubcategories": [
+            {
+              "name": "Sub-subcategory1",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory2",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory3",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory4",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory5",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory6",
+              "href": "#"
+            },
+            {
+              "name": "Sub-subcategory7",
+              "href": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
